@@ -1,3 +1,26 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "REACTing to Rust"
+theme = "hugo-theme-nix"
+
+[menu]
+  [[menu.header]]
+    name = "post"
+    weight = 0
+    url = "/post"
+  [[menu.header]]
+    name = "about"
+    weight = 1
+    url = "/about"
+
+[params]
+  GithubID = "jdhorwitz"
+  GitlabId = "joshuahorwitz"
+  TwitterID = "jdhorwitz"
+  LinkedInID = "joshuahorwitz"
+  Name = "Josh Horwitz"
+  HeaderUsername = "josh"
+  HeaderHostname = "joshuahorwitz.net"
+  Email = "joshua.d.horwitz@gmail.com"
+  About = "Rust Contributor"
+  ProfilePicture = "https://media.licdn.com/media/p/8/005/0a5/169/368932c.jpg"
