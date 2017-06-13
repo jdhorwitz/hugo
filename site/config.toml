@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "REACTing to Rust"
+title = "Reasoning With React"
 theme = "hugo-theme-nix"
 
 [menu]
@@ -22,5 +22,5 @@ theme = "hugo-theme-nix"
   HeaderUsername = "josh"
   HeaderHostname = "joshuahorwitz.net"
   Email = "joshua.d.horwitz@gmail.com"
-  About = "Rust Contributor"
+  About = "React and Javascript developer, with a passion for Ocaml and ReasonML"
   ProfilePicture = "https://media.licdn.com/media/p/8/005/0a5/169/368932c.jpg"
